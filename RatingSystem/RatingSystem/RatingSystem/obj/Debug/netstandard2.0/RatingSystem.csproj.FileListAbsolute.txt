@@ -1,0 +1,13 @@
+C:\Users\nancy\source\repos\X\Rate\RatingSystem\RatingSystem\RatingSystem\bin\Debug\netstandard2.0\RatingSystem.deps.json
+C:\Users\nancy\source\repos\X\Rate\RatingSystem\RatingSystem\RatingSystem\bin\Debug\netstandard2.0\RatingSystem.dll
+C:\Users\nancy\source\repos\X\Rate\RatingSystem\RatingSystem\RatingSystem\obj\Debug\netstandard2.0\RatingSystem.csprojAssemblyReference.cache
+C:\Users\nancy\source\repos\X\Rate\RatingSystem\RatingSystem\RatingSystem\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\nancy\source\repos\X\Rate\RatingSystem\RatingSystem\RatingSystem\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\nancy\source\repos\X\Rate\RatingSystem\RatingSystem\RatingSystem\obj\Debug\netstandard2.0\RatingSystem.csproj.CoreCompileInputs.cache
+C:\Users\nancy\source\repos\X\Rate\RatingSystem\RatingSystem\RatingSystem\obj\Debug\netstandard2.0\RatingSystem.AssemblyInfoInputs.cache
+C:\Users\nancy\source\repos\X\Rate\RatingSystem\RatingSystem\RatingSystem\obj\Debug\netstandard2.0\RatingSystem.AssemblyInfo.cs
+C:\Users\nancy\source\repos\X\Rate\RatingSystem\RatingSystem\RatingSystem\bin\Debug\netstandard2.0\RatingSystem.pdb
+C:\Users\nancy\source\repos\X\Rate\RatingSystem\RatingSystem\RatingSystem\obj\Debug\netstandard2.0\TestRateStar.xaml.g.cs
+C:\Users\nancy\source\repos\X\Rate\RatingSystem\RatingSystem\RatingSystem\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\nancy\source\repos\X\Rate\RatingSystem\RatingSystem\RatingSystem\obj\Debug\netstandard2.0\RatingSystem.dll
+C:\Users\nancy\source\repos\X\Rate\RatingSystem\RatingSystem\RatingSystem\obj\Debug\netstandard2.0\RatingSystem.pdb
