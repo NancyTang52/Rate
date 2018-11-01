@@ -16,7 +16,6 @@ namespace RatingSystem
         public int Count { get; set; } = 0;
         public int index { get; set; } = 8;
 
-
         public TestRateStar()
         {
             InitializeComponent();
